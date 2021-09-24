@@ -1,0 +1,5 @@
+ Html stands for Hyper text markup language. It is responsible for web page structure. 
+<element>content</element>
+<h3>content</h3>
+<br/>
+<img>

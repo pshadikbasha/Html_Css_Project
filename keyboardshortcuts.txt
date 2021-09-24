@@ -1,0 +1,6 @@
+1. command plus p, command+p, to quickly open file.
+2. control + , to open settings json file.
+3. control+shift+N : to open new instance
+4. control+shift+w: to close instance of visual studio code
+5. command +shift+p, to open command pallete
+
